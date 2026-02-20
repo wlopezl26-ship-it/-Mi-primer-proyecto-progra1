@@ -1,0 +1,14 @@
+¿Qué aprendiste sobre el flujo de trabajo con Git y
+GitHub?
+
+
+R// He aprendido que trabajar con git y GitHub es complejo pero más eficiente que estar haciendo versión tras versión a la hora de trabajar en equipo y que al tener los dos una rama para trabajar se pueden dar conflictos pero también se pueden recuperar los cambios hechos en otras versiones lo que facilita la recuperación.
+
+¿Cómo fue la experiencia de trabajar en pareja? ¿Encontraste algún
+conflicto? ¿Cómo lo resolviste?
+
+R//Trabaje sola así que no tuve problemas de ese tipo.
+
+¿Qué ventajas crees que tiene usar Git en proyectos de programación?
+
+R//Pues tiene muchas ventajas ya que los datos pueden ser clonados a cualquier computadora que tenga acceso al repositorio y los datos pueden trabajarse de forma continua entre programadores facilitando asi la escritura de condigo entre varias personas
