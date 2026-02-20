@@ -7,8 +7,9 @@ R// He aprendido que trabajar con git y GitHub es complejo pero más eficiente q
 ¿Cómo fue la experiencia de trabajar en pareja? ¿Encontraste algún
 conflicto? ¿Cómo lo resolviste?
 
-R//Trabaje sola así que no tuve problemas de ese tipo.
+R//Trabaje sola así que no tuve problemas de ese tipo, pero si tuve un conflicto al fusionar las dos ramas, lo resolví corrigiendo desde el main y luego guardando y subiéndolo a GitHub.
+
 
 ¿Qué ventajas crees que tiene usar Git en proyectos de programación?
 
-R//Pues tiene muchas ventajas ya que los datos pueden ser clonados a cualquier computadora que tenga acceso al repositorio y los datos pueden trabajarse de forma continua entre programadores facilitando asi la escritura de condigo entre varias personas
+R//Pues tiene muchas ventajas ya que los datos pueden ser clonados a cualquier computadora que tenga acceso al repositorio y los datos pueden trabajarse de forma continua entre programadores facilitando así la escritura de condigo entre varias personas
